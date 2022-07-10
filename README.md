@@ -1,3 +1,26 @@
+i made a quizz app . i choose this because i want to implement a my react knowledge.in this project i used html css Javascript and react .when i was building  this project then i am facing  some basic difficulties like how to dispaly question one by one on the screen etc. i solved this problem using to create a new data file where i store all of the question and answer .and after that i used to map  method to get a question one by one on the screen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
