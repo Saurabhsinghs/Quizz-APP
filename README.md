@@ -1,4 +1,4 @@
-i made a quizz app . i choose this because i want to implement a my react knowledge.in this project i used html css Javascript and react .when i was building  this project then i am facing  some basic difficulties like how to dispaly question one by one on the screen etc. i solved this problem using to create a new data file where i store all of the question and answer .and after that i used to map  method to get a question one by one on the screen.
+i made a quizz app .  I choose this because I found it as a general project to implement my knowledge and other thing is that these types of websites are in demand seeing the current scenerios..in this project i used html css Javascript and react .when i was building  this project then i am facing  some basic difficulties like how to dispaly question one by one on the screen etc. i solved this problem using to create a new data file where i store all of the question and answer .and after that i used to map  method to get a question one by one on the screen.
 
 
 
